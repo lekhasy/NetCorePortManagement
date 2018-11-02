@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCorePortManagement", "NetCorePortManagement\NetCorePortManagement.csproj", "{EE4C4BE4-58DE-4146-B62A-D3A4B9CB7715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4C4BE4-58DE-4146-B62A-D3A4B9CB7715}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EE4C4BE4-58DE-4146-B62A-D3A4B9CB7715}.Debug|x86.Build.0 = Debug|Any CPU
+		{EE4C4BE4-58DE-4146-B62A-D3A4B9CB7715}.Release|x86.ActiveCfg = Release|Any CPU
+		{EE4C4BE4-58DE-4146-B62A-D3A4B9CB7715}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
